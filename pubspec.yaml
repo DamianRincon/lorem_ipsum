@@ -1,0 +1,18 @@
+name: lorem_ipsum
+description: Lorem Ipsum, a random Lipsum generator.
+version: 0.0.1
+homepage: https://damianrc.com
+repository: 
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
