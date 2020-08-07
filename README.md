@@ -1,6 +1,6 @@
 # lorem_ipsum [![pub package](https://img.shields.io/pub/v/lorem_ipsum.svg)](https://pub.dev/packages/lorem_ipsum)
 
-Lorem Ipsum, a random Lipsum generator.
+Lorem Ipsum, it is a package to generate random text easily, quickly and dynamically.
 
 ## Installation
 
