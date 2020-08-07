@@ -2,7 +2,7 @@ name: lorem_ipsum
 description: Lorem Ipsum, a random Lipsum generator.
 version: 0.0.1
 homepage: https://damianrc.com
-repository: 
+repository: https://github.com/DamianRincon/lorem_ipsum
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
