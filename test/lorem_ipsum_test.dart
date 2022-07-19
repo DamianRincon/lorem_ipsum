@@ -6,4 +6,12 @@ void main() {
   test('-adds one to input values-', () {
     print(loremIpsum(words: 60, paragraphs: 3, initWithLorem: true));
   });
+
+  test('is paragraphs empty', () {
+    loremIpsum(words: 10, paragraphs: 0, initWithLorem: false);
+  });
+
+  test('is word empty', () {
+    loremIpsum(words: 0);
+  });
 }

@@ -5,8 +5,11 @@ import 'package:lorem_ipsum/util/words.dart';
 
 Random _random = Random();
 
-String loremIpsum(
-    {int paragraphs = 1, int words = 100, bool initWithLorem = false}) {
+String loremIpsum({
+  int? paragraphs = 1,
+  required int? words,
+  bool initWithLorem = false,
+}) {
   if (paragraphs == null || paragraphs < 0) {
     throw new ArgumentError.value(paragraphs, "paragraphs");
   }
