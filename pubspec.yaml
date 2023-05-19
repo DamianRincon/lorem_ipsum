@@ -1,6 +1,6 @@
 name: lorem_ipsum
 description: It is a package to generate random text easily, quickly and dynamically.
-ersion: 0.0.2
+version: 0.0.2
 homepage: https://damianrc.com
 repository: https://github.com/DamianRincon/lorem_ipsum
 
